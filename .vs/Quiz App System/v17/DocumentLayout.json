@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\logic\\studentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:logic\\studentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\logic\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:logic\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\menus\\gotomenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:menus\\gotomenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\menus\\teachermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:menus\\teachermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\logic\\teachersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:logic\\teachersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\logic\\adminsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:logic\\adminsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\logic\\authenticationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:logic\\authenticationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\entities\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:entities\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|c:\\users\\computer land\\desktop\\quiz app system\\c#\\configuration\\systeminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4729E940-26EE-4D91-8DC8-2E4D13A636C4}|Quiz App System.csproj|solutionrelative:configuration\\systeminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\IdGenerator.cs",
+              "RelativeDocumentMoniker": "Logic\\IdGenerator.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\IdGenerator.cs",
+              "RelativeToolTip": "Logic\\IdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T14:37:05.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T21:32:31.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoToMenus.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\GoToMenus.cs",
+              "RelativeDocumentMoniker": "Menus\\GoToMenus.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\GoToMenus.cs",
+              "RelativeToolTip": "Menus\\GoToMenus.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T21:14:09.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SystemInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Configuration\\SystemInitializer.cs",
+              "RelativeDocumentMoniker": "Configuration\\SystemInitializer.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Configuration\\SystemInitializer.cs",
+              "RelativeToolTip": "Configuration\\SystemInitializer.cs",
+              "ViewState": "AgIAAAwAAADgMjMzMzMTwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T20:18:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "Menus\\MainMenu.cs",
+              "ViewState": "AgIAACkAAABAMzMzM3MvwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T20:10:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\AdminMenu.cs",
+              "RelativeToolTip": "Menus\\AdminMenu.cs",
+              "ViewState": "AgIAAAMAAAB0ZmZmZmYkwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T20:09:03.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherMenu.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\TeacherMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\TeacherMenu.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\TeacherMenu.cs",
+              "RelativeToolTip": "Menus\\TeacherMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T20:08:37.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentMenu.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\StudentMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\StudentMenu.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Menus\\StudentMenu.cs",
+              "RelativeToolTip": "Menus\\StudentMenu.cs",
+              "ViewState": "AgIAACwAAAAAKDMzMzPbvwsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T20:08:25.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherSystem.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\TeacherSystem.cs",
+              "RelativeDocumentMoniker": "Logic\\TeacherSystem.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\TeacherSystem.cs",
+              "RelativeToolTip": "Logic\\TeacherSystem.cs",
+              "ViewState": "AgIAAMsAAACQZmZmZkYwwFQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:08:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentSystem.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\StudentSystem.cs",
+              "RelativeDocumentMoniker": "Logic\\StudentSystem.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\StudentSystem.cs",
+              "RelativeToolTip": "Logic\\StudentSystem.cs",
+              "ViewState": "AgIAAOkAAAAAmpmZmZkewCIBAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T23:48:27.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:58:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwEwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:49:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\AuthenticationSystem.cs",
+              "RelativeDocumentMoniker": "Logic\\AuthenticationSystem.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\AuthenticationSystem.cs",
+              "RelativeToolTip": "Logic\\AuthenticationSystem.cs",
+              "ViewState": "AgIAAAIAAAD0//////8gwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:56:02.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminSystem.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\AdminSystem.cs",
+              "RelativeDocumentMoniker": "Logic\\AdminSystem.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Logic\\AdminSystem.cs",
+              "RelativeToolTip": "Logic\\AdminSystem.cs",
+              "ViewState": "AgIAAGgAAACAZ2ZmZmYkwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:49:46.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:49:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Quiz.cs",
+              "RelativeDocumentMoniker": "Entities\\Quiz.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Quiz.cs",
+              "RelativeToolTip": "Entities\\Quiz.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAABQvRcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:48:11.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:47:03.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\COMPUTER LAND\\Desktop\\Quiz App System\\C#\\Entities\\Question.cs",
+              "RelativeToolTip": "Entities\\Question.cs",
+              "ViewState": "AgIAADcAAACA/////z8lwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:43:05.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
